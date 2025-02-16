@@ -1,12 +1,14 @@
 # iris-nearest-neighbor
 Nearest Neighbor Iris Flower Classification
 
-Uses the following python packages:
+Uses the following python packages
+
 Numpy
 Os
 Sys
 
-Requires the following datasets:
+Requires the following datasets
+
 iris-training-data.csv
 iris-testing-data.csv
 
